@@ -5,6 +5,14 @@ header {
        color: white;
        align-items: center;
        height: 50px;
+       width: 100vw;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
 }
 
 .logo {
@@ -72,9 +80,25 @@ ul {
     align-items: center;
     justify-content: center;
     border-style: dotted;
+    margin: 40px 0;
 }
 
 .quote {
     font-size: 30px;
     text-align: center;
+}
+
+.section-five-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: paleturquoise;
+    width: 500px;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 16px;
+}
+
+button {
+    height: 20px;
 }
