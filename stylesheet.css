@@ -37,7 +37,7 @@ ul {
 .section-two-container {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
     background-color: rgba(255, 182, 193, 0.613);
    width: 100vw;
     }
@@ -48,11 +48,12 @@ ul {
     flex-direction: column;
     align-items: center;
     padding: 50px;
+    
 }
 
 
 #magic-img {
-    width: 300px;
+    width: 250px;
     height: auto;
 }
 
@@ -111,7 +112,12 @@ ul {
 }
 
 button {
-    height: 20px;
+    height: 30px;
     background-color: lightcyan;
     border-radius: 5px;
+    font-family: 'Arima'
+}
+
+p {
+    text-align: center;
 }
