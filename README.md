@@ -14,4 +14,4 @@ Credit for the icons used:
 
 <a href="https://www.flaticon.com/free-icons/magic" title="magic icons">Magic icons created by smalllikeart - Flaticon</a>
 
-<a href="https://www.flaticon.com/free-stickers/magic" title="magic stickers">Magic stickers created by Stickers - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/magic" title="magic icons">Magic icons created by Freepik - Flaticon</a>
