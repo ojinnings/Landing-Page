@@ -37,9 +37,29 @@ ul {
 }
 
 
-#cat-img {
+#magic-img {
     width: 300px;
     height: auto;
 }
 
+.icon {
+    width: 100px;
+}
 
+.icons-container {
+    background-color: palegoldenrod;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+
+}
+
+.icon-info {
+    padding: 20px;
+}
+
+.section-three-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
