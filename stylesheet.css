@@ -74,6 +74,9 @@ ul {
 .icon-info {
     padding: 40px 20px;
     width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .section-three-container {
